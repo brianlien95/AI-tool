@@ -6,3 +6,4 @@
 |Perplexity|https://www.perplexity.ai/|
 |AI 工具集|https://ai-bot.cn/|
 |Askmanyai|https://askmanyai.cn|
+|NotebookLM|https://notebooklm.google.com|
