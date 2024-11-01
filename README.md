@@ -9,6 +9,7 @@
 |Askmanyai|https://askmanyai.cn|
 |NotebookLM|https://notebooklm.google.com|
 ## 追番網站
+|名稱|連結|
 |:------|:-------------|
 |AnFuns|https://www.anfuns.cc/|
 |MuteFun|https://www.mute01.com/|
